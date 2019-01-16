@@ -1,0 +1,46 @@
+body {
+	font-family: "century gothic"; 
+	font-size: 20px;
+	color: white;
+} 
+p {
+	font-size: 18px;
+} 
+.navbar{
+    padding: 20px 20px;
+}
+.navbar-icon{
+	margin-top: -18px;
+	width: 100%;
+} 
+.modal-header{  
+	background: linear-gradient(to top left, #ffffff 0%, #800000 65%);
+}
+.modal-header img{
+	padding: 10px;
+	margin-left: 60px;
+	width: 70%;	
+}
+.modal-footer{
+	background: #EEE;
+}
+.content-wrapper {
+	background: #EEE;
+	background-size: cover;
+} 
+footer{
+	background: darkred;
+}
+.btn-sm{
+    border-radius: 100%;
+}
+.page-header img{  
+	width: 100%;
+	height: 100vh;
+}
+.navbar-translate img{
+	width: 255px;
+} 
+.title{
+color: white;
+}
